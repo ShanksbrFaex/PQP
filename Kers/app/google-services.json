@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "331411431195",
+    "firebase_url": "https://kers-11e0f.firebaseio.com",
+    "project_id": "kers-11e0f",
+    "storage_bucket": "kers-11e0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331411431195:android:7dd83b1bd014bbdf",
+        "android_client_info": {
+          "package_name": "edu.br.faex.kers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331411431195-bu5752ppqv3t2fmuqmkq4i19p2b9pia9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0dDDHMa4GTpdInuU6SjsoZFCJo_tjg30"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
